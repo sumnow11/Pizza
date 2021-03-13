@@ -1,0 +1,29 @@
+.font{
+  font-family: 'Fira Sans', sans-serif;
+    text-shadow: 0 0 0.2em rgb(5, 5, 5)
+  }
+  .triangle {
+    background:  #ff580d;
+    border-radius: 15px 50px 30px 5px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    -webkit-filter: blur(0.6px); 
+    filter: blur(0.6px);
+   
+  }
+  .square{
+    border-radius: 90px 90px 90px 90px;
+    background:  #ff580d;
+    width: 1300px;
+    height:10px; 
+    margin:auto;
+  }
+  .form-c{
+    width: 600px;
+    
+  }
+  .img_circle{
+    border-radius: 50%;
+}
+  
